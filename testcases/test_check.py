@@ -17,4 +17,7 @@ class TestExampleOne:
             origion.send_keys(Keys.ENTER)
         def checkout(self):
             print("hello")
+
+        def hejdcn(self):
+            print("fhdgnd")
         
