@@ -15,3 +15,6 @@ class TestExampleOne:
             origion.click()
             origion.send_keys("New Delhi")
             origion.send_keys(Keys.ENTER)
+        def checkout(self):
+            print("hello")
+        
